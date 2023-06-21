@@ -1,0 +1,13 @@
+"superkillers"
+{
+	"base"		"base"
+	"title"		"Generic's Zombies"
+	"maps"		"^gz_"
+	"category"	"other"
+	"menusystem"	"1"
+
+	"settings"
+	{
+
+	}
+}
